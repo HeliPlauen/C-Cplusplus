@@ -1,4 +1,4 @@
-# C-Cplusplus
+# C-Cplusplus.
 
 In this repository I located my educational tasks made using C C++
 A few comments:
